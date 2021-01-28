@@ -1,0 +1,15 @@
+{
+  "name": "hostelmanagement",
+  "version": "1.0.0",
+  "description": "Hostel Management Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha './test/*.spec.js'"
+  },
+  "author": "jai niranjan",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
