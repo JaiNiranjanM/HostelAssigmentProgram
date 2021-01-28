@@ -18,7 +18,7 @@ Execute
 -------
 Call the function with input as below,
 
-HostelManagement().registerQueue.renderHostelManagement(<input in array>);
+HostelManagement().registerQueue.renderHostelManagement(`input in array`);
 
 Expected Output
 ---------------
