@@ -19,3 +19,18 @@ Execute
 Call the function with input as below,
 
 HostelManagement().registerQueue.renderHostelManagement(<input in array>);
+
+Expected Output
+---------------
+12 Students
+BV : [1,5,10]
+AV : [2,3,7]
+BNV : [4,9,12]
+ANV : [6,8,11]
+
+13 Students
+BV : [1,5,10]
+AV : [2,3,7]
+BNV : [4,9,12]
+ANV : [6,8,11]
+NA : [13]
